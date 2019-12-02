@@ -20,5 +20,8 @@ public class Test {
     public String bonjour(){
         return "bonjour";
     }
-    
+  
+    public String bonsoir(){
+        return "bonsoir";
+    }
 }
